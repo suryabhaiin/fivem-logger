@@ -5,8 +5,8 @@ Base scripts for QB-Core Framework :building_construction:
 This script manage your server log without database. you can search, filter log by category, filter by date and time range and search by any text features. You can create your staff account also.
 
 Demo is here : https://log.suryabhai.in/
-User : demo
-Password : demo
+- User : demo
+- Password : demo
 
 ## Features
 - Advance fivem logger
