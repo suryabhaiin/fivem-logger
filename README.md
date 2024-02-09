@@ -10,7 +10,7 @@ Demo is here : https://log.suryabhai.in/
 
 ## Features
 - Advance fivem logger
-- Search easyly logs
+- Search logs
 
 
 ## Installation
