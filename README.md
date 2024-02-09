@@ -1,7 +1,7 @@
 # sb-logger
 Base scripts for QB-Core Framework :building_construction:
 
-<img width="725" height="592" src="https://media.discordapp.net/attachments/977999778535321660/1200441751589105724/image.png?ex=65c63180&is=65b3bc80&hm=9f662f0c4855ff07c8bacad0adc53d06c1d46944ed84d20e1c122092157061de&=&format=webp&quality=lossless&width=725&height=592">
+<img width="752" height="592" src="https://media.discordapp.net/attachments/977999778535321660/1204777086578073620/image.png?ex=65d5f719&is=65c38219&hm=24a0a82b13d58f03f3fd8c985af862308917007dd6d73df594efad284b92a13d&=&format=webp&quality=lossless&width=752&height=592">
 This script manage your server log without database. you can search, filter log by category, filter by date and time range and search by any text features. You can create your staff account also.
 
 Demo is here : https://log.suryabhai.in/
@@ -20,13 +20,10 @@ Demo is here : https://log.suryabhai.in/
 
 
 ```Lua
-exports['sb-logger']:createLog('log_category', 'log_message')
+exports['sb-logger']:createLog('log_category', 'log_message')               -- from client and server
 ```
 
-```Lua
-TriggerEvent('sblogger:createLog', 'log_category', 'log_message')
-TriggerClientEvent('sblogger:createLog', 'log_category', 'log_message')
-```
+
 
 ## default login info (Make sure to change on first login)
 Default URL : http://localhost:3000
