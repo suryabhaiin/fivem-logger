@@ -6,8 +6,8 @@ This script manage your server log without database. you can search, filter log 
 
 Demo is here : https://log.suryabhai.in/
 ```Lua
-User : admin
-Password : admin
+User : demo
+Password : demo
 ```
 
 ## Features
