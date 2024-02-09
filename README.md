@@ -5,8 +5,10 @@ Base scripts for QB-Core Framework :building_construction:
 This script manage your server log without database. you can search, filter log by category, filter by date and time range and search by any text features. You can create your staff account also.
 
 Demo is here : https://log.suryabhai.in/
-- User : demo
-- Password : demo
+```Lua
+User : admin
+Password : admin
+```
 
 ## Features
 - Advance fivem logger
@@ -21,15 +23,6 @@ Demo is here : https://log.suryabhai.in/
 
 ```Lua
 exports['sb-logger']:createLog('log_category', 'log_message')               -- from client and server
-```
-
-
-
-## default login info (Make sure to change on first login)
-Default URL : http://localhost:3000
-```Lua
-User : admin
-Password : admin
 ```
 
 # Buy here : https://surya.tebex.io/package/6093091
