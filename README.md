@@ -2,7 +2,7 @@
 
 <img width="752" height="592" src="https://media.discordapp.net/attachments/977925336882876437/1211851614458089513/image.png?ex=65efb3c4&is=65dd3ec4&hm=d7a2143881e967ec282444808178213c1378d08d81808b510bfb55669abdfaa2&=&format=webp&quality=lossless&width=822&height=671">
 This script manage your server log without database. you can search, filter log by category, filter by date and time range and search by any text features. You can create your staff account also.
-
+Preview : https://youtu.be/DYD8PZn4y-g
 Demo is here : https://log.suryabhai.in/
 ```Lua
 User : demo
