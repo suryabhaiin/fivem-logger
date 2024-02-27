@@ -1,7 +1,7 @@
 # sb-logger
 Base scripts for QB-Core Framework :building_construction:
 
-<img width="752" height="592" src="https://media.discordapp.net/attachments/977999778535321660/1204777086578073620/image.png?ex=65d5f719&is=65c38219&hm=24a0a82b13d58f03f3fd8c985af862308917007dd6d73df594efad284b92a13d&=&format=webp&quality=lossless&width=752&height=592">
+<img width="752" height="592" src="https://media.discordapp.net/attachments/977925336882876437/1211851614458089513/image.png?ex=65efb3c4&is=65dd3ec4&hm=d7a2143881e967ec282444808178213c1378d08d81808b510bfb55669abdfaa2&=&format=webp&quality=lossless&width=822&height=671">
 This script manage your server log without database. you can search, filter log by category, filter by date and time range and search by any text features. You can create your staff account also.
 
 Demo is here : https://log.suryabhai.in/
