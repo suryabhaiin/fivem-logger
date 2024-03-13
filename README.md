@@ -26,6 +26,23 @@ Password : demo
 exports['sb-logger']:createLog('log_category', 'log_message')               -- from client and server
 ```
 
+## if you want to catch lib.logger logs autometically then modify you ox_lib\imports\logger\server.lua in ox_lib
+
+# add new service 
+```Lua
+if service == 'sblogger' then
+    function lib.logger(source, event, message, ...)
+        exports['sb-logger']:createLog(event, message) 
+    end
+end
+
+```
+# and add server.cfg 
+
+```Lua
+set ox:logger "sblogger"
+```
+
 # Buy here : https://surya.tebex.io/package/6093091
 
 
