@@ -14,6 +14,8 @@ Password : demo
 ## Features
 - Advance fivem logger
 - Search logs
+- auto catch all existing qb-logs
+- support ox.logger (Checkout ox.logger config bellow)
 
 
 ## Installation
