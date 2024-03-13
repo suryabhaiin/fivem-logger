@@ -27,10 +27,10 @@ Password : demo
 ```Lua
 exports['sb-logger']:createLog('log_category', 'log_message')               -- from client and server
 ```
+# For ox_lib logger catch
+## if you want to catch lib.logger logs autometically then modify your ox_lib\imports\logger\server.lua in ox_lib
 
-## if you want to catch lib.logger logs autometically then modify you ox_lib\imports\logger\server.lua in ox_lib
-
-# add new service 
+## add new service 
 ```Lua
 if service == 'sblogger' then
     function lib.logger(source, event, message, ...)
